@@ -1,1 +1,3 @@
 # Algorithm
+
+:mag_right:
