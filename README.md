@@ -42,6 +42,9 @@
 
 6. 합병 정렬(Merge Sort)
 
-> 검색 알고리즘(Searching Algorithm)
+> 탐색 알고리즘(Searching Algorithm)
+1. 이진 탐색 알고리즘(Binary Search Algorithm)
 
 > 기하 알고리즘(Geometric Algorithm)
+1. 볼록 껍질 알고리즘(Convex Hull Algorithm)
+
