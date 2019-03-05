@@ -1,5 +1,3 @@
-package DFSBFS;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -13,19 +11,19 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /*
- * [¹®Á¦]
- * 1. DFS, BFS·Î Å½»öÇÑ °á°ú °¢°¢ Ãâ·Â.
- * 2. ¹æ¹®ÇÒ ¼ö ÀÖ´Â Á¤Á¡ÀÌ ¿©·¯ °³ÀÎ °æ¿ì Á¤Á¡ ¹øÈ£°¡ ÀÛÀº °ÍÀ» ¸ÕÀú ¹æ¹®.
- * 3. ´õ ÀÌ»ó ¹æ¹®ÇÒ ¼ö ÀÖ´Â Á¡ÀÌ ¾ø´Â °æ¿ì Á¾·á.
- * 4. Á¤Á¡ ¹øÈ£´« 1ºÎÅÍ N±îÁö
+ * [ë¬¸ì œ]
+ * 1. DFS, BFSë¡œ íƒìƒ‰í•œ ê²°ê³¼ ê°ê° ì¶œë ¥.
+ * 2. ë°©ë¬¸í•  ìˆ˜ ìžˆëŠ” ì •ì ì´ ì—¬ëŸ¬ ê°œì¸ ê²½ìš° ì •ì  ë²ˆí˜¸ê°€ ìž‘ì€ ê²ƒì„ ë¨¼ì € ë°©ë¬¸.
+ * 3. ë” ì´ìƒ ë°©ë¬¸í•  ìˆ˜ ìžˆëŠ” ì ì´ ì—†ëŠ” ê²½ìš° ì¢…ë£Œ.
+ * 4. ì •ì  ë²ˆí˜¸ëˆˆ 1ë¶€í„° Nê¹Œì§€
  * 
- * [Á¶°Ç]
- * 1. Á¤Á¡ÀÇ °³¼ö N (1 <= N <= 1000)
- * 2. °£¼±ÀÇ °³¼ö M (1 <= M <= 10000)
- * 3. Å½»öÇÒ Á¤Á¡ÀÇ ¹øÈ£ V
- * 4. °£¼±ÀÌ ¿¬°áÇÏ´Â µÎ Á¤Á¡ÀÇ ¹øÈ£ ½ÖÀÌ M°³ ÁÖ¾îÁø´Ù.
- * 5. µÎ Á¤Á¡ »çÀÌ¿¡ ¿©·¯ °³ÀÇ °£¼±ÀÌ ÀÖÀ» ¼ö ÀÖ´Ù.
- * 6. ÀÔ·ÂÀ¸·Î ÁÖ¾îÁö´Â °£¼±Àº ¾ç¹æÇâÀÌ´Ù.
+ * [ì¡°ê±´]
+ * 1. ì •ì ì˜ ê°œìˆ˜ N (1 <= N <= 1000)
+ * 2. ê°„ì„ ì˜ ê°œìˆ˜ M (1 <= M <= 10000)
+ * 3. íƒìƒ‰í•  ì •ì ì˜ ë²ˆí˜¸ V
+ * 4. ê°„ì„ ì´ ì—°ê²°í•˜ëŠ” ë‘ ì •ì ì˜ ë²ˆí˜¸ ìŒì´ Mê°œ ì£¼ì–´ì§„ë‹¤.
+ * 5. ë‘ ì •ì  ì‚¬ì´ì— ì—¬ëŸ¬ ê°œì˜ ê°„ì„ ì´ ìžˆì„ ìˆ˜ ìžˆë‹¤.
+ * 6. ìž…ë ¥ìœ¼ë¡œ ì£¼ì–´ì§€ëŠ” ê°„ì„ ì€ ì–‘ë°©í–¥ì´ë‹¤.
  */
 
 public class BOJ_1260_DFSandBFS {
