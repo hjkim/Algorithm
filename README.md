@@ -14,10 +14,10 @@
 ---------------------------------------
 > 그래프 알고리즘(Graph Algorithm)
 1. 너비 우선 탐색(BFS : Breadth First Search)
-   - [BOJ_1260_DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
-   - [BOJ_2589_보물섬](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_2589_TreasureIsland.java)
+   - [BOJ 1260 DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
+   - [BOJ 2589 보물섬](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_2589_TreasureIsland.java)
 2. 깊이 우선 탐색(DFS : Depth First Search)
-   - [BOJ_1260_DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
+   - [BOJ 1260 DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
 3. 크러스컬 알고리즘(Kruskal's Algorithm)
 
 4. 최소 공통 조상(LCA : Lowest Common Ancestor)
@@ -50,4 +50,5 @@
 1. 볼록 껍질 알고리즘(Convex Hull Algorithm)
 
 > 시뮬레이션(Simulation)
-
+   - [BOJ 3190 뱀](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_3190_Snake.java)
+   
