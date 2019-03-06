@@ -49,3 +49,5 @@
 > 기하 알고리즘(Geometric Algorithm)
 1. 볼록 껍질 알고리즘(Convex Hull Algorithm)
 
+> 시뮬레이션(Simulation)
+
