@@ -14,9 +14,9 @@
 ---------------------------------------
 > 그래프 알고리즘(Graph Algorithm)
 1. 너비 우선 탐색(BFS : Breadth First Search)
-
+   - [BOJ_1260_DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
 2. 깊이 우선 탐색(DFS : Depth First Search)
-
+   - [BOJ_1260_DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
 3. 크러스컬 알고리즘(Kruskal's Algorithm)
 
 4. 최소 공통 조상(LCA : Lowest Common Ancestor)
