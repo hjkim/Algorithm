@@ -20,6 +20,7 @@
 2. 깊이 우선 탐색(DFS : Depth First Search)
    - [BOJ 1260 DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
    - [BOJ 13460 구슬탈출2](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_13460_BeadEscape2.java)
+   - [BOJ 3055 탈출](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_3055_Escape.java
 3. 크러스컬 알고리즘(Kruskal's Algorithm)
 
 4. 최소 공통 조상(LCA : Lowest Common Ancestor)
