@@ -18,6 +18,7 @@
    - [BOJ 2589 보물섬](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_2589_TreasureIsland.java)
    - [BOJ 16236 아기상어](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_16236_BabyShark.java)
    - [BOJ 3055 탈출](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_3055_Escape.java)
+   - [BOJ 2178 미로탐색]
 2. 깊이 우선 탐색(DFS : Depth First Search)
    - [BOJ 1260 DFS와BFS](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_1260_DFSandBFS.java)
    - [BOJ 13460 구슬탈출2](https://github.com/hjkim/Algorithm/blob/master/src/GrapeAlgorithm/DFSBFS/BOJ_13460_BeadEscape2.java)
