@@ -47,7 +47,7 @@
 5. 계수 정렬(Counting Sort)
 
 6. 합병 정렬(Merge Sort)
-
+   - [BOJ 1427 소트인사이드](https://github.com/hjkim/Algorithm/blob/master/src/SortingAlgorithm/MergeSort/BOJ_1427_SortInside_MergeSort.java)
 > 탐색 알고리즘(Searching Algorithm)
 1. 이진 탐색 알고리즘(Binary Search Algorithm)
 
