@@ -41,7 +41,7 @@
 2. 퀵 정렬(Quick Sort)
    - [BOJ 2750 수 정렬하기](https://github.com/hjkim/Algorithm/blob/master/src/SortingAlgorithm/QuickSort/BOJ_2750_SortingNumber_QuickSort.java)
 3. 선택 정렬(Selection Sort)
-
+   - [BOJ 2750 수 정렬하기](https://github.com/hjkim/Algorithm/blob/master/src/SortingAlgorithm/SelectionSort/BOJ_2750_SortingNumber_SelectionSort.java)
 4. 힙 정렬(Heap Sort)
 
 5. 계수 정렬(Counting Sort)
