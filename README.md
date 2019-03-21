@@ -61,4 +61,5 @@
    - [BOJ 3190 뱀](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_3190_Snake.java)
    - [BOJ 14890 
 경사로](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_14890_Slope.java)
+   - [BOJ 5373 큐빙](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_5373_Cubing.java)
 
