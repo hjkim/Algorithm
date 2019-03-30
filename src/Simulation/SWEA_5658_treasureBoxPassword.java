@@ -1,3 +1,5 @@
+package SWEA;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -20,7 +22,7 @@ import java.util.StringTokenizer;
  * 5. 우선순위큐를 사용해도 된다. 
  * (k번째가 마지막 숫자를 의미하는 것이 아니라면 전체 배열을 정렬하는 것보다 빠르게 k번째 수를 구할 수 있다.)
  */
-public class SWEA_treasureBoxPassword {
+public class SWEA_5658_treasureBoxPassword {
     private static int n,k,PA[];
     private static ArrayList<Integer> sumlist;
     private static ArrayList<Character> list;
