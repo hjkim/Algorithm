@@ -70,3 +70,4 @@
 경사로](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_14890_Slope.java)
    - [BOJ 5373 큐빙](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_5373_Cubing.java)
    - [SWEA 5658 보물상자 비밀번호](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/SWEA_5658_treasureBoxPassword.java)
+   - [BOJ 16235 나무 재테크](https://github.com/hjkim/Algorithm/blob/master/src/Simulation/BOJ_16235_WoodInvestment.java)
